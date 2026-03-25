@@ -1,4 +1,4 @@
-# Maine Opportunity Zone Eligibility Map
+# 2026 Maine Opportunity Zone Tract Eligibility Map
 
 ## About the Tool
 This tool allows users to visually explore which census tracts in Maine are eligible for Opportunity Zone nomination under the provisions of the 2025 One Big Beautiful Bill Act (OBBBA). Users can search for a specific address to see which census tract it falls within and view tract-level demographic and economic data used to determine eligibility.
