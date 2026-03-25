@@ -14,4 +14,4 @@ Census tract eligibility is determined by criteria established in the 2025 One B
 R, leaflet (interactive map rendering), leaflet.extras (address search functionality), sf (spatial data processing).
 
 ## Notes
-**This map was prepared by the Maine Office of the State Economist and is for informational purposes only. It should not be used to make legal or investment decisions.
+**This map was prepared by the Maine Office of the State Economist and is for informational purposes only. It should not be used to make legal or investment decisions.**
