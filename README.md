@@ -1,7 +1,7 @@
 # 2026 Maine Opportunity Zone Tract Eligibility Map
 
 ## About the Tool
-This tool allows users to visually explore which census tracts in Maine are eligible for 2026 Opportunity Zone nomination cycle. Enter your address in the search bar to see which census tract a property falls within, then click on the tract to view details.
+This tool allows users to visually explore which census tracts in Maine are eligible for 2026 Opportunity Zone nomination cycle. Enter your address in the search bar to see which census tract a property falls within, then click on the tract to view details. The map tool can be view here: https://mainestateeconomist207.github.io/oz-tract-nom-2026/maine-map-w-boundaries.html.
 
 ## Features
 Interactive census tract polygons color-coded by OZ eligibility status. Address search to locate a specific address on the map. Clickable popups displaying census tract eligibility status. Town and county boundary overlays for geographic reference. Toggleable town labels via the layer control panel. 
